@@ -8,7 +8,7 @@ jueves
 viernes
 
 estaciones
-verano
-primavera
-invierno
-otoño
+1. verano
+2. primavera
+3. invierno
+4. otoño
